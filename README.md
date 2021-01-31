@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kyruodioso/kyruodioso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! Im Cristian (Kyru) 
+### This is important...👇👇👇
+---
+[![kyruodioso](https://github-readme-stats.vercel.app/api/top-langs/?username=kyruodioso)](https://github.com/kyruodioso/github-readme-stats)
 
-Here are some ideas to get you started:
+#### ... Thats not all
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+
+
+
+<div>
+<h2 text-align="center">###Thanks for your time!! 😋😋😛</h2>
+<img src="https://i.pinimg.com/originals/23/2d/15/232d153e5aae4517c9a6510622bd0368.gif" alt="pikachu" align="center" width="100%"/>
+</div>
