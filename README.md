@@ -57,14 +57,6 @@ ERP escalable diseñado para PyMEs con múltiples instancias de negocio.
 
 ---
 
-### 📈 GitHub Stats
-
-![Cristian's Stats](https://github-readme-stats.vercel.app/api?username=kyruodioso&show_icons=true&theme=gotham&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyruodioso&layout=compact&theme=gotham&hide_border=true)
-
----
-
 <p align="center">
   Let's build something scalable together. <br>
   <a href="mailto:cristianbejaranodev@gmail.com">📩 Contáctame</a>
