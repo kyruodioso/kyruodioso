@@ -59,10 +59,9 @@ ERP escalable diseñado para PyMEs con múltiples instancias de negocio.
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyruodioso&show_icons=true&theme=gotham&hide_border=true" alt="Cristian's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyruodioso&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</p>
+![Cristian's Stats](https://github-readme-stats.vercel.app/api?username=kyruodioso&show_icons=true&theme=gotham&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyruodioso&layout=compact&theme=gotham&hide_border=true)
 
 ---
 
