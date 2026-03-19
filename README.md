@@ -1,4 +1,4 @@
-# Hola, soy Cristian Bejarano 👋
+# Hola, soy Cristian Bejarano 
 ### CTO & Technical Lead | Full Stack Engineer | IoT Architect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-bejarano-dev)
