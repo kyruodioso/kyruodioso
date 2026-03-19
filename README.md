@@ -37,20 +37,20 @@ Mi enfoque combina una sólida ingeniería de **Backend (Python/Django, Node.js)
 
 ---
 
-### ⚡ Proyectos Destacados
+###  Proyectos Destacados
 
-#### 🌱 **[Sentinel | Plataforma AgTech IoT](https://www.solsteinninnovations.com.ar/#productos)**
+####  **[Sentinel | Plataforma AgTech IoT](https://www.solsteinninnovations.com.ar/#productos)**
 Sistema de monitoreo ambiental en tiempo real para el sector agroindustrial.
 - **Arquitectura:** Ingesta de datos vía **MQTT** desde sensores ESP8266.
 - **Stack:** Django (Backend), Next.js (Dashboard), InfluxDB (Time-series data).
 - **Impacto:** Visualización crítica de temperatura y humedad para control de cultivos.
 
-#### 🏢 **[Condominium OS | Gestión de Propiedades](https://www.solsteinninnovations.com.ar)**
+####  **[Condominium OS | Gestión de Propiedades](https://www.solsteinninnovations.com.ar)**
 Plataforma SaaS para la administración integral de consorcios y edificios.
 - **Funcionalidad:** Gestión de tickets, reservas de amenities, paquetería y control de accesos (RBAC).
 - **Stack:** MERN Stack (MongoDB, Express, React, Node.js) con arquitectura de microservicios.
 
-#### 💼 **[Nodos ERP | Sistema de Gestión Multi-tenant](https://www.nodos-erp.com)**
+####  **[Nodos ERP | Sistema de Gestión Multi-tenant](https://www.nodos-erp.com)**
 ERP escalable diseñado para PyMEs con múltiples instancias de negocio.
 - **Stack:** React, Node.js, SQL.
 - **Highlights:** Facturación electrónica automatizada y reportes financieros en tiempo real.
