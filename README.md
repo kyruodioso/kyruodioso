@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
 Soy un **Líder Técnico** especializado en diseñar ecosistemas digitales robustos y liderar equipos de alto rendimiento. Con base en Buenos Aires, dirijo la estrategia tecnológica en **Solsteinn Innovations**, donde mi objetivo es claro: transformar requerimientos complejos en arquitecturas de software eficientes y escalables.
 
